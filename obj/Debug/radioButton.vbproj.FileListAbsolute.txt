@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\radioButton\bin\Debug\radioButton.exe.config
+C:\Users\oswal\source\repos\radioButton\bin\Debug\radioButton.exe
+C:\Users\oswal\source\repos\radioButton\bin\Debug\radioButton.pdb
+C:\Users\oswal\source\repos\radioButton\bin\Debug\radioButton.xml
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.Form1.resources
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.Resources.resources
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.exe
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.xml
+C:\Users\oswal\source\repos\radioButton\obj\Debug\radioButton.pdb
